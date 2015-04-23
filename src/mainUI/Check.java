@@ -10,6 +10,8 @@ import ui.Menu;
 
 public class Check extends JPanel{
 	
+	//COMMENT TESTING
+	
 	JLabel label = new JLabel("Check");
 	
 	public Check(){
