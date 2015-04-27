@@ -12,6 +12,8 @@ public class Check extends JPanel{
 	
 	//COMMENT TESTING
 	
+	//TEST #2
+	
 	JLabel label = new JLabel("Check");
 	
 	public Check(){
